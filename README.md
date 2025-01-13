@@ -1,2 +1,5 @@
-# r2template
-This repository is a template-repository that contains the basic structure for a risk of rain 2 mod. Names are left empty in the solution, manifest, and csproj files for the user to fill out
+# FullRobotRex
+
+Adds a variant for REX that ditches the plant to turn them into a mobile weapons platform. 
+
+![preview](https://i.postimg.cc/g0cGhzt6/11-13-49-screenshot.png)

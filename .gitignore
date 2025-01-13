@@ -1,4 +1,4 @@
 # libs and build directories
-ModName/bin
-ModName/obj
+RobotRex/bin
+RobotRex/obj
 build.sh

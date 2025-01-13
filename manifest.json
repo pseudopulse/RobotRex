@@ -1,10 +1,12 @@
 {
-	"name": "ModName",
+	"name": "FullRobotRex",
 	"version_number": "1.0.0",
-	"website_url": "",
-	"description": "ModDesc",
+	"website_url": "https://github.com/pseudopulse/RobotRex",
+	"description": "REX is sick of that stupid fucking plant.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.9",
-		"RiskofThunder-HookGenPatcher-1.2.1"
+		"RiskofThunder-HookGenPatcher-1.2.1",
+		"tristanmcpherson-R2API-5.0.5",
+		"pseudopulse-Survariants-1.0.7"
 	]
 }
